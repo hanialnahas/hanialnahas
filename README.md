@@ -1,1 +1,3 @@
-<b>About Me</b>
+<h2>About Me</h2>
+My name is Hani Alnahas<br>
+I am computer science student at <a href="https://www.jacobs-university.de/">Jacobs University Bremen</a>.<br>
