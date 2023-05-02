@@ -3,7 +3,7 @@
 Hi 👋 My name is Hani Nahas
 ===========================
 
-Software Engineer - B.Sc Computer Science
+B.Sc Computer Science
 -----------------------------------------
 
 Enjoys New Ideas, computer science student at <a href="https://www.jacobs-university.de/">Jacobs University Bremen</a>.</em><br>
