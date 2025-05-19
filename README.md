@@ -3,10 +3,10 @@
 Hi 👋 My name is Hani Nahas
 ===========================
 
-B.Sc Computer Science
+M.Sc Computer Science
 -----------------------------------------
 
-Enjoys New Ideas, computer science student at <a href="https://www.jacobs-university.de/">Jacobs University Bremen</a>.</em><br>
+Enjoys New Ideas, master's of computer science student at <a href="https://www.informatik.uni-freiburg.de">Uni Freiburg</a>, AI specialization</em><br>
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Hani Nahas](http://hanialnahas.github.io)
